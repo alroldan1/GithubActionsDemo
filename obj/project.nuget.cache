@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LS6kV9NTQs648tTxPlfEivcVJ8h3olF2si2du/bz2Am0MpzqPY3Cd7/s7xqUDirqlC/BRP8ECxhiiwTqLX9S1w==",
+  "success": true,
+  "projectFilePath": "C:\\educacionit\\Az400\\code\\GithubActionsDemo\\GithubActionsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ar76209\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ar76209\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ar76209\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ar76209\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
